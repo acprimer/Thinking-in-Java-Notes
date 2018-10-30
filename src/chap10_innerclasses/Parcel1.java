@@ -1,4 +1,4 @@
-package chap10_InnerClass;
+package chap10_innerclasses;
 
 /**
  * Created by yaodh on 2018/10/30.
